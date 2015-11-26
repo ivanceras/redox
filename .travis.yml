@@ -19,6 +19,7 @@ before_install:
 script:
   - make clean
   - make all
-notifications:
-  slack: redox-os:t5jWurX9sFfgurPznqdECoKN
-  email: false
+#notifications:
+#  slack: redox-os:t5jWurX9sFfgurPznqdECoKN
+#  email: false
+
